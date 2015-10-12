@@ -9,15 +9,12 @@ Using this script requires you to input plaintext banking details. If you do not
 
 ## Things it can do:
 
- * Log in
- * Get your accounts
- * Get account transactions
- * Do an inner account transfer
- * Do a saved external account transfer
-
-Comming soon:
-
- [ ] BPay
+ - [X] Log in
+ - [X] Get your accounts
+ - [X] Get account transactions
+ - [X] Do an inner account transfer
+ - [X] Do a saved external account transfer
+ - [ ] BPay
 
 ## Quick Example
 
