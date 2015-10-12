@@ -7,6 +7,17 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Using this script requires you to input plaintext banking details. If you do not know how to properly and safely store these details please do not use this script. Please don't use this script on anything other than servers you fully control not ones that are shared. Again, I don't take any responsibility or have any implied warranty with this script. Please use it safely.
 
+## Things it can do:
+
+ * Log in
+ * Get your accounts
+ * Get account transactions
+ * Do an inner account transfer
+ * Do a saved external account transfer
+
+Comming soon:
+ [ ] BPay
+
 ## Quick Example
 
 ```

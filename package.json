@@ -1,5 +1,5 @@
 {
-  "name": "node-netbank",
+  "name": "netbank-js",
   "version": "0.1.1",
   "description": "NodeJS library for Commonwealth Bank",
   "main": "netbank.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icodethings/node-netbank.git"
+    "url": "git+https://github.com/icodethings/netbank-js.git"
   },
   "keywords": [
     "netbank",
@@ -17,9 +17,9 @@
   "author": "Matthew Vandenbossche <matt@icodethin.gs>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/icodethings/node-netbank/issues"
+    "url": "https://github.com/icodethings/netbank-js/issues"
   },
-  "homepage": "https://github.com/icodethings/node-netbank#readme",
+  "homepage": "https://github.com/icodethings/netbank-js#readme",
   "dependencies": {
     "q": "^1.4.1",
     "request": "^2.65.0"
