@@ -16,6 +16,7 @@ Using this script requires you to input plaintext banking details. If you do not
  * Do a saved external account transfer
 
 Comming soon:
+
  [ ] BPay
 
 ## Quick Example
