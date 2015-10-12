@@ -20,3 +20,9 @@ netbank.login()
 	});
 });
 ```
+
+## Install
+
+```
+npm install --save netbank-js
+```
