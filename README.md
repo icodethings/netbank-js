@@ -14,7 +14,7 @@ Using this script requires you to input plaintext banking details. If you do not
  - [X] Get account transactions
  - [X] Do an inner account transfer
  - [X] Do a saved external account transfer
- - [ ] BPay
+ - [X] BPay
 
 ## Quick Example
 
